@@ -1,5 +1,5 @@
 const nameDatabase = {
-    name: "Tomáš",
+    name: "Rutik",
 }
 
 export default nameDatabase;
